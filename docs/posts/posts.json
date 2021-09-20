@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-09-20-my-second-blog-post/",
+    "title": "My Second Blog Post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-09-20",
+    "categories": [],
+    "contents": "\r\nWoohoo!\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-09-20T17:28:01-06:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to My Fake Blog",
     "description": "Welcome to our new blog, My Fake Blog. We hope you enjoy \nreading what we have to say!",
